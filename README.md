@@ -1,4 +1,4 @@
-<!--<h1 align="center"> <img alt="cgapp logo" src="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.help.jiotvallcenemahd/920808c0-3f04-11e9-b1aa-21e27dccc5a5/128x128"/>--><h1 align="center"><img alt="logo" src="tv.png" width="128" height="128"/></h1><br/>
+<!--<h1 align="center"> <img alt="cgapp logo" src="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.help.jiotvallcenemahd/920808c0-3f04-11e9-b1aa-21e27dccc5a5/128x128"/>--><h1 align="center"><img alt="logo" src="tv.png" width="128" height="128"/><br/>
 📺 <a href="https://raw.githubusercontent.com/fuzsolution/JIO_IPTV/main/JIO.m3u" target="_blank" >JIO IPTV</a> 📺</h1>
 <p align="center"><a href="https://raw.githubusercontent.com/fuzsolution/JIO_IPTV/main/JIO.m3u" text-align="center"><img src="https://img.shields.io/badge/M3U-FILE-green"/></a><br/>Contain <b>Free</b> Stramable Links</p>
 
